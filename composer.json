@@ -3,6 +3,7 @@
   "description": "My first dumb ORM",
   "minimum-stability": "stable",
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "AlexVenga",
