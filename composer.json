@@ -1,0 +1,17 @@
+{
+  "name": "alexvenga/first_stupid_orm",
+  "description": "My first dumb ORM",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AlexVenga",
+      "email": "bubnov.alexey@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AlexVenga\\FirstStupidORM\\": "src"
+    }
+  }
+}
